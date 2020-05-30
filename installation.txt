@@ -1,0 +1,9 @@
+1. npx expo-cli init tracks
+2. go to folder <tracks>
+3. npm install react-navigation
+4. npm install react-navigation-tabs
+5. expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+6. npm install react-navigation-stack @react-native-community/masked-view
+7. npx expo-cli install expo-location
+8. npx ngrok http 3000 (supposed that the database server is running on port 3000)
+7. npm start -c
